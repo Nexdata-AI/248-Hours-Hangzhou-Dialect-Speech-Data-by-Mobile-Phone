@@ -1,8 +1,10 @@
 # 248-Hours-Hangzhou-Dialect-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/30
+
 
 ## Description
 The data were collected from 370 speakers, each with about 500 spoken sentences in Hangzhou dialect. Local people in Hangzhou participated in the recording and the accent was authentic. The recording content is colloquial and life-oriented, and reading is more natural and fluent. Hangzhou locals participate in QA and proofreading, and text transcription is more accurate. Equipped with mainstream Android and Apple phones.
+
+For more details, please refer to the link: https://bit.ly/3UxHP5n
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, noise symbols
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
