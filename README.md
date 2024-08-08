@@ -4,7 +4,7 @@
 ## Description
 The data were collected from 370 speakers, each with about 500 spoken sentences in Hangzhou dialect. Local people in Hangzhou participated in the recording and the accent was authentic. The recording content is colloquial and life-oriented, and reading is more natural and fluent. Hangzhou locals participate in QA and proofreading, and text transcription is more accurate. Equipped with mainstream Android and Apple phones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/30?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/30?source=Github
 
 
 ## Format
